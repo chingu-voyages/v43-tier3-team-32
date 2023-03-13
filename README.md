@@ -64,8 +64,8 @@ in your `readme` feel free to replace the text we've provided here.
 ├── README.md
 ```
 
-The `client` folder contains the React frontend. The `server` folder contains the Node.js backend.
-The `package.json` file in the root directory contains the dependencies for both the frontend and backend.
-The `package.json` file in the `client` folder contains the dependencies for the frontend.
-The `package.json` file in the `server` folder contains the dependencies for the backend.
-This is just a basic folder structure for a MERN stack application. You can add more folders and files as you see fit.
+- The `client` folder contains the React frontend. The `server` folder contains the Node.js backend.
+- The `package.json` file in the root directory contains the dependencies for both the frontend and backend.
+- The `package.json` file in the `client` folder contains the dependencies for the frontend.
+- The `package.json` file in the `server` folder contains the dependencies for the backend.
+- This is just a basic folder structure for a MERN stack application. You can add more folders and files as you see fit.
